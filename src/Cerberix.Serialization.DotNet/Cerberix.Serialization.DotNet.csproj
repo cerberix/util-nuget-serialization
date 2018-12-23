@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RuntimeIdentifiers>win7-x64</RuntimeIdentifiers>
+    <Authors>pacjman@cerberix.net</Authors>
+    <Company>cerberix.net</Company>
+    <Description>dotnet serialization module for dot net standard</Description>
+    <RepositoryUrl>https://github.com/cerberix-net/util-nuget-serialization/</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Version>1.0.0</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageLicenseUrl>https://github.com/cerberix-net/util-nuget-serialization/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/cerberix-net/util-nuget-serialization/master/img/cerberix.png</PackageIconUrl>
+    <PackageId>Cerberix.Serialization.DotNet</PackageId>
+    <Product>Cerberix.Serialization.DotNet</Product>
+    <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Cerberix.Serialization.Core" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
