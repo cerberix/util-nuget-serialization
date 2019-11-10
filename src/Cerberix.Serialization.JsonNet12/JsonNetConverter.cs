@@ -1,5 +1,4 @@
-﻿using Cerberix.Serialization.Core;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 
 namespace Cerberix.Serialization.JsonNet12
 {
