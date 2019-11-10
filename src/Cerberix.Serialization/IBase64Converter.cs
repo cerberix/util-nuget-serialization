@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Cerberix.Serialization.Core
+namespace Cerberix.Serialization
 {
     public interface IBase64Converter
     {

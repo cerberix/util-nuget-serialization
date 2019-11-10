@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cerberix.Serialization.Core", "Cerberix.Serialization.Core\Cerberix.Serialization.Core.csproj", "{B7EAB7F6-290A-40B0-96D8-D883555A2A17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cerberix.Serialization", "Cerberix.Serialization\Cerberix.Serialization.csproj", "{B7EAB7F6-290A-40B0-96D8-D883555A2A17}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cerberix.Serialization.JsonNet12", "Cerberix.Serialization.JsonNet12\Cerberix.Serialization.JsonNet12.csproj", "{6EE93299-C071-4629-A006-E0D8D034F34C}"
 EndProject

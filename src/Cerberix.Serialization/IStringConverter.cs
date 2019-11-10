@@ -1,4 +1,4 @@
-﻿namespace Cerberix.Serialization.Core
+﻿namespace Cerberix.Serialization
 {
     public interface IStringConverter
     {
