@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Cerberix.Serialization.Core;
 
 namespace Cerberix.Serialization.DotNet
 {

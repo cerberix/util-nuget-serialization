@@ -1,5 +1,4 @@
 ﻿using System;
-using Cerberix.Serialization.Core;
 
 namespace Cerberix.Serialization.DotNet
 {
